@@ -13,6 +13,20 @@ A full-stack real-time chat application built with React, Node.js, Express, Sock
 - 📱 Responsive design with Tailwind CSS
 - 🔄 Auto-reconnection
 
+- ## Screenshots
+
+### Login Screen
+![Login Screen](./screenshots/login-screen.png)
+
+### Chat Interface
+![Chat Interface](./screenshots/chat-interface.png)
+
+### Private Messaging
+![Private Messaging](./screenshots/private-chat.png)
+
+
+
+
 ## Tech Stack
 
 ### Frontend
